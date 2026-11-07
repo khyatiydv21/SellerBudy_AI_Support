@@ -1,0 +1,7 @@
+{
+  "name": "sellerbuddy",
+  "version": "1.0.0",
+  "description": "AI seller-support assistant: answers from an FAQ knowledge base and auto-triages tickets using the Gemini API.",
+  "private": true,
+  "engines": { "node": ">=18" }
+}
